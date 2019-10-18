@@ -5,11 +5,7 @@ import java.util.concurrent.Semaphore;
 import java.util.function.IntConsumer;
 
 /**
- * <p>Title:ZeroEvenOdd</p>
- * <p>Description: TODO</p>
- *
- * @author tianxiao.liu
- * @date 2019-10-18 13:32
+
  */
 public class ZeroEvenOdd {
 

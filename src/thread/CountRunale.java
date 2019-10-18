@@ -3,11 +3,7 @@ package thread;
 import java.util.concurrent.CountDownLatch;
 
 /**
- * <p>Title:CountRunale</p>
- * <p>Description: TODO</p>
- *
- * @author tianxiao.liu
- * @date 2019-10-18 11:23
+
  */
 public class CountRunale implements Runnable {
 

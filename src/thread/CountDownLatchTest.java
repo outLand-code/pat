@@ -6,11 +6,7 @@ import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 
 /**
- * <p>Title:CountDownLatchTest</p>
- * <p>Description: TODO</p>
- *
- * @author tianxiao.liu
- * @date 2019-10-18 11:01
+
  */
 public class CountDownLatchTest {
 

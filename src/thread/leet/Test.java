@@ -5,11 +5,7 @@ import java.util.concurrent.Executors;
 import java.util.function.IntConsumer;
 
 /**
- * <p>Title:Test</p>
- * <p>Description: TODO</p>
- *
- * @author tianxiao.liu
- * @date 2019-10-18 11:48
+
  */
 public class Test {
 
